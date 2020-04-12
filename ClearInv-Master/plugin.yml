@@ -1,0 +1,11 @@
+---
+name: ClearInv
+version: 0.0.1
+main: Shallow\ClearInv\Main
+api: 3.6.5
+commands:
+
+ ci:
+
+    description: "Clear Inventory"
+...
